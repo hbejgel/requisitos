@@ -1,4 +1,4 @@
-## Proposta de Requisitos - SaladaNoCopo
+## Proposta de Requisitos - SaladaNoPote
 
 ### Encontros:
 Data | Motivo do Encontro | Homem-Horas
