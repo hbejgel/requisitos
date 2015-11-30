@@ -12,10 +12,10 @@ Requisitos Funcionais:
 7.  O sistema deve enviar a localização dos motoboys através de um mapa. (Saída)
 8.  O sistema deve controlar o tempo de entrega dos motoboys através de um mapa. (Mudança de estado)
 9.  O sistema deve emitir o local de entrega e o contato do cliente para o motoboy. (Saída)
-9.  O sistema deve registrar o pagamento. (Saída)
-10. O sistema deve permitir que o atendente cadastre um novo pedido. (Entrada)
-11. O sistema deve permitir que o usuário escolha o lugar de entrega do pedido dentro de uma lista de universidades disponíveis para entrega. (Entrada)
-12. O sistema deve permitir que o usuário monte a sua salada combinando ingredientes. (Entrada)
+10.  O sistema deve registrar o pagamento. (Saída)
+11. O sistema deve permitir que o atendente cadastre um novo pedido. (Entrada)
+12. O sistema deve permitir que o usuário escolha o lugar de entrega do pedido dentro de uma lista de universidades disponíveis para entrega. (Entrada)
+13. O sistema deve permitir que o usuário monte a sua salada combinando ingredientes. (Entrada)
 
 
 Requisitos Inversos:
