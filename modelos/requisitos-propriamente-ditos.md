@@ -23,13 +23,13 @@ Requisitos Funcionais:
 
 Requisitos Inversos:
 --
-1.  O sistema NÃO deve permitir que o usuário faça um pedido com produtos ou ingredientes fora de estoque.
-2.  O sistema NÃO deve permitir que o motoboy tenha acesso a dados pessoais do cliente.
+17.  O sistema NÃO deve permitir que o usuário faça um pedido com produtos ou ingredientes fora de estoque.
+18.  O sistema NÃO deve permitir que o motoboy tenha acesso a dados pessoais do cliente.
 
 Requisitos Não Funcionais:
 --
-1.  O sistema deve possuir uma interface agradável para o usuário.
-2.  O sistema deve permitir que o usuário realize um pedido facilmente.
-3.  O sistema deve realizar o pedido rapidamente.
-4.  O sistema deve ser portável para diversas plataformas "mobile". 
-5.  O sistema deve fazer o cadastramento rapidamente. 
+19.  O sistema deve possuir uma interface agradável para o usuário.
+20.  O sistema deve permitir que o usuário realize um pedido facilmente.
+21.  O sistema deve realizar o pedido rapidamente.
+22.  O sistema deve ser portável para diversas plataformas "mobile". 
+23.  O sistema deve fazer o cadastramento rapidamente. 
