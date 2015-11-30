@@ -13,6 +13,11 @@ Requisitos Funcionais:
 8.  O sistema deve controlar o tempo de entrega dos motoboys através de um mapa. (Mudança de estado)
 9.  O sistema deve registrar o pagamento. (Saida)
 
+Requisitos Inversos:
+--
+O sistema NÃO deve permitir que o usuário faça um pedido com produtos ou ingredientes fora de estoque.
 
 Requisitos Não Funcionais:
 --
+O sistema deve possuir uma interface agradável para o usuário.
+O sistema deve permitir que o usuário realize um pedido facilmente.
