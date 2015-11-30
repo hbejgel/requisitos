@@ -16,6 +16,9 @@ Requisitos Funcionais:
 11. O sistema deve permitir que o atendente cadastre um novo pedido. (Entrada)
 12. O sistema deve permitir que o usuário escolha o lugar de entrega do pedido dentro de uma lista de universidades disponíveis para entrega. (Entrada)
 13. O sistema deve permitir que o usuário monte a sua salada combinando ingredientes. (Entrada)
+14. O sistema deve sugerir algumas saladas prontas com seus ingredientes já combinados. (Saída)
+15. O sistema deve avisar ao cliente quando o motoboy estiver próximo. (Saída)
+16. O sistema deve exibir quais motoboys estão ocupados e quais estão livres. (Saída)
 
 
 Requisitos Inversos:
