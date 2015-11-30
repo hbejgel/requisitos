@@ -25,6 +25,6 @@ Requisitos Não Funcionais:
 --
 1.  O sistema deve possuir uma interface agradável para o usuário.
 2.  O sistema deve permitir que o usuário realize um pedido facilmente.
-O sistema deve realizar o pedido rapidamente.
-O sistema deve ser portável para diversas plataformas "mobile". 
-O sistema deve fazer o cadastramento rapidamente. 
+3.  O sistema deve realizar o pedido rapidamente.
+4.  O sistema deve ser portável para diversas plataformas "mobile". 
+5.  O sistema deve fazer o cadastramento rapidamente. 
